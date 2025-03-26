@@ -33,6 +33,9 @@
 <a href="https://github.com/Igor-Capdeville/Password-Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Capdeville&repo=Password-Generator&theme=dracula" />
 </a>
+<a href="https://github.com/Igor-Capdeville/OMIE-API-Integration-Testing-Tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Capdeville&repo=OMIE-API-Integration-Testing-Tool&theme=dracula" />
+</a>
 </p>
 
 
