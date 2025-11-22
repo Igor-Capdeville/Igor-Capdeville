@@ -1,79 +1,43 @@
-# Hi there, I'm Igor Capdeville 👋
+# Igor Capdeville
 
-## About Me
-<!-- 🔭 I'm currently working on -->
-- 🌱 I'm learning about AI Agents
-- 👯 I'm looking to collaborate on open-source projects
-- 📫 How to reach me: contact@capdeville.com.br
-<!-- 💬 Ask me about Cybersecurity, Microsoft 365-->
+## 👋 Sobre mim
 
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-<!-- Add more tech badges from https://shields.io -->
+Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python, Django e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
 
-## GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor-Capdeville&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Capdeville&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+## 🛠️ Competências Técnicas
 
-## Streak Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Igor-Capdeville&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge\&logo=django)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox)
+![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=for-the-badge\&logo=nginx) ![PostgreSQL](https://img.shields.io/badge/Postgres-Database-blue?style=for-the-badge\&logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge\&logo=linux) ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git)
 
+## 🚀 Projetos em Destaque
 
-## Projects
-<p align="center">
-<a href="https://github.com/Igor-Capdeville/Password-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Capdeville&repo=Password-Generator&theme=dracula" />
-</a>
-<a href="https://github.com/Igor-Capdeville/OMIE-API-Integration-Testing-Tool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-Capdeville&repo=OMIE-API-Integration-Testing-Tool&theme=dracula" />
-</a>
-</p>
+| Projeto                      | Descrição                                                                                        |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Notes App**                | Backend em Django para anotações e sincronização entre dispositivos.                             |
+| **Event Management App**     | Sistema completo para gestão de eventos, participantes, escaneamento e dashboards em tempo real. |
+| **Legal Document Vector DB** | Pipeline de ingestão, parsing, vetorização e RAG para documentos jurídicos.                      |
+| **IA Local HomeLab**         | Infraestrutura local com Proxmox + VMs + Ollama + GPU.                                           |
 
+## 📚 Estudos & Certificações
 
-## Contributions
-<!--![Snake animation](https://github.com/Igor-Capdeville/Igor-Capdeville/blob/output/github-contribution-grid-snake.svg)-->
+* Estudando para certificações de segurança.
+* Estudos contínuos em IA local, automação Python e DevOps.
+* Preparação para concurso de Agente de Polícia Federal.
 
-## Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Igor-Capdeville/count.svg" />
-</p>
+## 🔧 Tecnologias que uso no dia a dia
 
-## Connect with me
-<p align="center">
-  <a href="www.linkedin.com/in/igorcapdeville" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-</p>
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox) ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=for-the-badge) ![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=for-the-badge\&logo=nginx)
+![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge\&logo=github) ![ZFS](https://img.shields.io/badge/ZFS-Storage-blue?style=for-the-badge)
 
-<!--
-To enable the snake animation:
-1. Create a .github/workflows folder in your profile repository
-2. Add a snake.yml file with the content from: https://github.com/Platane/snk
--->
+## 📊 Estatísticas
 
-<!--
-**Igor-Capdeville/Igor-Capdeville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser\&layout=compact\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUser\&show_icons=true\&theme=dark)
 
-Here are some ideas to get you started:
+## 📫 Como me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+* LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* GitHub: [https://github.com/SeuUser](https://github.com/SeuUser)
