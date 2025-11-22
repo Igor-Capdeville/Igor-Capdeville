@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim
 
-Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
+Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python, Django e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
 
 ## 🛠️ Competências Técnicas
 
@@ -15,8 +15,8 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 | Projeto                      | Descrição                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Event Management App**     | Sistema completo para gestão de eventos, participantes, escaneamento e dashboards em tempo real. |
-| **Legal Document Vector DB** | Pipeline de ingestão, parsing, vetorização e RAG para documentos.                      |
-| **IA Local HomeLab**         | Infraestrutura com Proxmox + VMs + Ollama + GPU e mais.                                           |
+| **Legal Document Vector DB** | Pipeline de ingestão, parsing, vetorização e RAG para documentos jurídicos.                      |
+| **IA Local HomeLab**         | Infraestrutura com Proxmox + VMs + Ollama + GPU.                                           |
 
 ## 📚 Estudos & Certificações
 
@@ -30,10 +30,8 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Capdeville
-\&layout=compact\&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igor-Capdeville
-\&show_icons=true\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Capdeville\&layout=compact\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igor-Capdeville\&show_icons=true\&theme=dark)
 
 ## 📫 Como me encontrar
 
