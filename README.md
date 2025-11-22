@@ -6,8 +6,7 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 ## 🛠️ Competências Técnicas
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge\&logo=django)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox)
 ![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=for-the-badge\&logo=nginx) ![PostgreSQL](https://img.shields.io/badge/Postgres-Database-blue?style=for-the-badge\&logo=postgresql)
 ![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge\&logo=linux) ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git)
 
@@ -31,8 +30,10 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser\&layout=compact\&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUser\&show_icons=true\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Capdeville
+\&layout=compact\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igor-Capdeville
+\&show_icons=true\&theme=dark)
 
 ## 📫 Como me encontrar
 
