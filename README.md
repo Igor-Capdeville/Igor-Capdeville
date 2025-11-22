@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim
 
-Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python, Django e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
+Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
 
 ## 🛠️ Competências Técnicas
 
@@ -15,16 +15,14 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 | Projeto                      | Descrição                                                                                        |
 | ---------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Notes App**                | Backend em Django para anotações e sincronização entre dispositivos.                             |
 | **Event Management App**     | Sistema completo para gestão de eventos, participantes, escaneamento e dashboards em tempo real. |
-| **Legal Document Vector DB** | Pipeline de ingestão, parsing, vetorização e RAG para documentos jurídicos.                      |
-| **IA Local HomeLab**         | Infraestrutura local com Proxmox + VMs + Ollama + GPU.                                           |
+| **Legal Document Vector DB** | Pipeline de ingestão, parsing, vetorização e RAG para documentos.                      |
+| **IA Local HomeLab**         | Infraestrutura com Proxmox + VMs + Ollama + GPU e mais.                                           |
 
 ## 📚 Estudos & Certificações
 
 * Estudando para certificações de segurança.
 * Estudos contínuos em IA local, automação Python e DevOps.
-* Preparação para concurso de Agente de Polícia Federal.
 
 ## 🔧 Tecnologias que uso no dia a dia
 
