@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim
 
-Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python, Django e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
+Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
 
 ## 🛠️ Competências Técnicas
 
