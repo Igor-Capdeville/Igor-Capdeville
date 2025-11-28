@@ -35,6 +35,6 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 ## 📫 Como me encontrar
 
-* Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-* LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* GitHub: [https://github.com/SeuUser](https://github.com/SeuUser)
+* Email: [capdeville.igor@gmail.com](mailto:capdeville.igor@gmail.com)
+* LinkedIn: [linekdin.com/in/igorcapdeville](https://www.linkedin.com/in/igorcapdeville/)
+* GitHub: [https://github.com/Igor-Capdeville](https://github.com/Igor-Capdeville)
