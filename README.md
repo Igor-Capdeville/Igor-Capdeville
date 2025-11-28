@@ -1,6 +1,4 @@
-# Igor Capdeville
-
-## 👋 Sobre mim
+# 👋 Sobre mim
 
 Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
 
@@ -37,4 +35,4 @@ Sou um profissional apaixonado por segurança da informação, infraestrutura, a
 
 * Email: [capdeville.igor@gmail.com](mailto:capdeville.igor@gmail.com)
 * LinkedIn: [linekdin.com/in/igorcapdeville](https://www.linkedin.com/in/igorcapdeville/)
-* GitHub: [https://github.com/Igor-Capdeville](https://github.com/Igor-Capdeville)
+* GitHub: [github.com/Igor-Capdeville](https://github.com/Igor-Capdeville)
