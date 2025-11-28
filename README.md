@@ -1,12 +1,17 @@
 # 👋 Sobre mim
 
-Sou um profissional apaixonado por segurança da informação, infraestrutura, automação, desenvolvimento backend e IA local. Trabalho com Proxmox, Docker, Nginx, Python e soluções modernas de gestão, automação e arquitetura de sistemas. Busco sempre criar soluções simples, escaláveis e seguras.
+Sou um profissional de tecnologia em constante evolução, sempre estudando e buscando crescer. Trabalho com administração de sistemas e coordenação de infraestrutura em ambiente de laboratório, cuidando de rede, servidores, automação e segurança. Gosto de transformar necessidade em solução simples, estável e segura, usando ferramentas modernas e aprendendo algo novo todos os dias.
 
 ## 🛠️ Competências Técnicas
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) ![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox)
-![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=for-the-badge\&logo=nginx) ![PostgreSQL](https://img.shields.io/badge/Postgres-Database-blue?style=for-the-badge\&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge\&logo=linux) ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=for-the-badge\&logo=proxmox) ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge\&logo=docker) 
+![PostgreSQL](https://img.shields.io/badge/Postgres-Database-blue?style=for-the-badge\&logo=postgresql) ![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge\&logo=linux) 
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge\&logo=git) 
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge\&logo=python) ![React](https://img.shields.io/badge/React-JavaScript%20Library-61dafb?style=for-the-badge&logo=react&logoColor=000000)
+
+![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=for-the-badge\&logo=nginx) ![Portainer](https://img.shields.io/badge/Portainer-Containers-%2313BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+
+
 
 ## 🚀 Projetos em Destaque
 
