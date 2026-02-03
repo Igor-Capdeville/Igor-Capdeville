@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Analista de Infraestrutura e Sysadmin especializado em virtualização, automação e segurança de sistemas. Atualmente, coordeno e mantenho toda a infraestrutura de TI de um laboratório de pesquisa, garantindo estabilidade, segurança e alta disponibilidade dos serviços.
+Sou Analista de Infraestrutura e Sysadmin especializado em segurança e automação. Atualmente, coordeno e mantenho toda a infraestrutura de TI de um laboratório de pesquisa, garantindo estabilidade, segurança e alta disponibilidade dos serviços.
 
 **Meu foco:** Transformar desafios de infraestrutura em soluções práticas, escaláveis e seguras, utilizando ferramentas modernas como Proxmox, Docker, Python e Linux.
 
@@ -13,7 +13,7 @@ Sou Analista de Infraestrutura e Sysadmin especializado em virtualização, auto
 
 ## 💼 O que faço hoje
 
-- 🖥️ **Administração de infraestrutura completa:** Proxmox, VMware, redes, servidores físicos e virtuais
+- 🖥️ **Administração de infraestrutura completa:** Proxmox, redes, servidores físicos e virtuais
 - 🐳 **Orquestração de containers:** Docker + Portainer para deploy de aplicações web, ferramentas de monitoramento e LLMs on-premise (Ollama)
 - 🔒 **Segurança e monitoramento:** Implementação de Wazuh, configuração de firewalls, gestão de backups automatizados
 - 🤖 **Automação:** Scripts em Python e Bash para automatizar tarefas repetitivas e aumentar eficiência operacional
